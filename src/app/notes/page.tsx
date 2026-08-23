@@ -6,7 +6,7 @@ import { formatDate } from "@/lib/format-date";
 
 export const metadata: Metadata = {
   title: "Notes de terrain",
-  description: "Idées, photos, observations et trouvailles — le format court de Journal Krokodil.",
+  description: "Idées, photos, observations et trouvailles, le format court de Journal Krokodil.",
 };
 
 export default function NotesPage() {

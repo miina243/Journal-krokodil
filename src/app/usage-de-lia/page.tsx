@@ -33,7 +33,7 @@ export default function AIUsagePage() {
         <h2 className="mb-3 mt-8 font-display text-xl">Ce qu&rsquo;elle peut faire</h2>
         <p className="text-[1.0625rem] leading-relaxed text-ink">
           Aide à la recherche documentaire (avec vérification humaine des sources), assistance à
-          la mise en forme, développement du site lui-même — dont le chantier{" "}
+          la mise en forme, développement du site lui-même, dont le chantier{" "}
           <em>Construire Krokodil</em> documente d&rsquo;ailleurs les coulisses.
         </p>
       </div>

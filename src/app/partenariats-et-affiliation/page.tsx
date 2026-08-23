@@ -21,7 +21,7 @@ export default function PartnershipsPage() {
         </p>
         <ul className="mb-6 list-disc space-y-2 pl-5 text-[1.0625rem] leading-relaxed text-ink">
           <li>Tout contenu sponsorisé ou lien affilié est signalé clairement, dans le contenu lui-même, pas seulement en mention légale.</li>
-          <li>Un partenariat ne change jamais la conclusion d&rsquo;une Expérience — ce qui a marché ou pas continue d&rsquo;être dit tel quel.</li>
+          <li>Un partenariat ne change jamais la conclusion d&rsquo;une Expérience : ce qui a marché ou pas continue d&rsquo;être dit tel quel.</li>
           <li>Aucun produit ou service n&rsquo;est présenté comme testé s&rsquo;il ne l&rsquo;a pas réellement été.</li>
         </ul>
         <p className="text-[1.0625rem] leading-relaxed text-ink">

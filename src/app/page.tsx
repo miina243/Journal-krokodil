@@ -51,7 +51,7 @@ export default function Home() {
             certainement pas moi.
           </p>
           <p className="mt-4 max-w-xl text-[1.0625rem] leading-relaxed text-ink-soft">
-            Krokodil raconte les choses pendant qu&rsquo;elles se font — pas seulement une fois
+            Krokodil raconte les choses pendant qu&rsquo;elles se font, pas seulement une fois
             qu&rsquo;elles sont jolies.
           </p>
         </div>

@@ -18,7 +18,7 @@ export default function MentionsLegalesPage() {
 
         <h2 className="mb-3 mt-8 font-display text-xl">Éditeur du site</h2>
         <p className="mb-4 text-ink-soft">
-          [Nom / raison sociale] — [adresse postale] — [contact : {" "}
+          [Nom / raison sociale], [adresse postale], [contact : {" "}
           <a href="mailto:yasminengandu@gmail.com" className="underline-hover">
             yasminengandu@gmail.com
           </a>
@@ -31,7 +31,7 @@ export default function MentionsLegalesPage() {
 
         <h2 className="mb-3 mt-8 font-display text-xl">Hébergement</h2>
         <p className="mb-4 text-ink-soft">
-          [Nom de l&rsquo;hébergeur] — [adresse] — [contact de l&rsquo;hébergeur]
+          [Nom de l&rsquo;hébergeur], [adresse], [contact de l&rsquo;hébergeur]
         </p>
 
         <h2 className="mb-3 mt-8 font-display text-xl">Propriété intellectuelle</h2>

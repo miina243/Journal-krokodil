@@ -21,7 +21,7 @@ export default function ConfidentialitePage() {
           Rien, par défaut. Aucun tracker analytics n&rsquo;est actif tant qu&rsquo;il
           n&rsquo;a pas été explicitement configuré et annoncé ici. Le formulaire newsletter ne
           transmet ton email à aucun service tant qu&rsquo;aucun fournisseur d&rsquo;envoi
-          n&rsquo;a été branché — voir le composant correspondant.
+          n&rsquo;a été branché (voir le composant correspondant).
         </p>
 
         <h2 className="mb-3 mt-8 font-display text-xl">Si un outil de mesure d&rsquo;audience est activé un jour</h2>

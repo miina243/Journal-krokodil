@@ -18,7 +18,7 @@ export const experiences: Experience[] = [
     auteur: "Yasmine",
     chapo: "Se redécouvrir, revenir à l'essentiel, et recommencer à prier pour les autres.",
     excerpt:
-      "Cinq leçons tirées d'un Carême qui ne ressemblait à aucun des précédents — sur la prière, le jeûne, le temps, et la parabole de Marthe et Marie.",
+      "Cinq leçons tirées d'un Carême qui ne ressemblait à aucun des précédents : sur la prière, le jeûne, le temps, et la parabole de Marthe et Marie.",
     tags: ["foi", "récit", "famille"],
     coverImage: null,
     contexte: [
@@ -74,7 +74,7 @@ export const experiences: Experience[] = [
       { type: "heading", text: "3. Le jeûne : faire moins pour entendre plus" },
       {
         type: "paragraph",
-        text: "On vit dans une époque de trop. Trop d'informations, trop de bruit, trop de sollicitations. Et dans ce trop, on perd le contact avec soi-même. Ce qui m'a frappée cette année, c'est que Jésus lui-même pratiquait ce retrait — pas pour fuir, pour se reconcentrer sur sa mission.",
+        text: "On vit dans une époque de trop. Trop d'informations, trop de bruit, trop de sollicitations. Et dans ce trop, on perd le contact avec soi-même. Ce qui m'a frappée cette année, c'est que Jésus lui-même pratiquait ce retrait : non pas pour fuir, mais pour se reconcentrer sur sa mission.",
       },
       {
         type: "quote",
@@ -83,7 +83,7 @@ export const experiences: Experience[] = [
       { type: "heading", text: "4. Le temps travaille pour toi" },
       {
         type: "paragraph",
-        text: "J'ai une relation compliquée avec le temps : je veux toujours aller vite. Le Carême, c'est 40 jours pour une raison — certaines choses ont besoin de durée pour prendre racine. On ne reconstruit pas une foi, une confiance en soi, une relation en claquant des doigts.",
+        text: "J'ai une relation compliquée avec le temps : je veux toujours aller vite. Le Carême, c'est 40 jours pour une raison : certaines choses ont besoin de durée pour prendre racine. On ne reconstruit pas une foi, une confiance en soi, une relation en claquant des doigts.",
       },
       { type: "heading", text: "5. Marthe et Marie : la parabole de mon burnout" },
       {
@@ -129,7 +129,7 @@ export const experiences: Experience[] = [
     questionPrincipale: "Pourquoi ai-je fini par m'effondrer alors que je « gérais » tout ?",
     reponseCourte: {
       texte:
-        "Parce que l'endurance n'est pas une compétence mais une ressource, et qu'elle s'épuise. Pendant dix ans, j'ai confondu ma valeur avec ma capacité à tout porter — jusqu'à ce que le corps pose la limite que je refusais de poser moi-même.",
+        "Parce que l'endurance n'est pas une compétence mais une ressource, et qu'elle s'épuise. Pendant dix ans, j'ai confondu ma valeur avec ma capacité à tout porter, jusqu'à ce que le corps pose la limite que je refusais de poser moi-même.",
     },
     excerpt:
       "Dix ans à porter le travail de plusieurs personnes avec le titre d'une seule. Le récit d'un mécanisme, pas d'un règlement de comptes.",
@@ -149,7 +149,7 @@ export const experiences: Experience[] = [
       { type: "heading", text: "Le pacte que j'ai signé avec moi-même" },
       {
         type: "paragraph",
-        text: "Quand tu entres dans un environnement où le numérique est encore peu structuré, et que tu sais faire, un pacte se noue — pas avec l'entreprise, avec toi-même. Tu te dis : je vais prouver. Je vais prendre ce périmètre, et tout ce qui déborde avec.",
+        text: "Quand tu entres dans un environnement où le numérique est encore peu structuré, et que tu sais faire, un pacte se noue, pas avec l'entreprise, mais avec toi-même. Tu te dis : je vais prouver. Je vais prendre ce périmètre, et tout ce qui déborde avec.",
       },
       { type: "heading", text: "Ce que je portais, concrètement" },
       {
@@ -165,12 +165,12 @@ export const experiences: Experience[] = [
       { type: "heading", text: "Le signal que j'ai refusé d'entendre" },
       {
         type: "paragraph",
-        text: "À un moment de grande vulnérabilité personnelle, j'ai senti que ma place dans l'organisation n'était plus évidente — pas à cause d'un événement brutal, mais par accumulation de micro-signaux. Mon réflexe a été celui de toujours : compenser, serrer les dents, me dire que ça allait s'arranger.",
+        text: "À un moment de grande vulnérabilité personnelle, j'ai senti que ma place dans l'organisation n'était plus évidente, pas à cause d'un événement brutal, mais par accumulation de micro-signaux. Mon réflexe a été celui de toujours : compenser, serrer les dents, me dire que ça allait s'arranger.",
       },
       { type: "heading", text: "Le retour, et la désillusion" },
       {
         type: "paragraph",
-        text: "Après une absence de plusieurs mois, je suis revenue — fatiguée mais déterminée à reprendre ma place. Sauf que le décalage ressenti avant mon départ s'était amplifié. Chaque initiative me coûtait plus d'énergie que jamais.",
+        text: "Après une absence de plusieurs mois, je suis revenue, fatiguée mais déterminée à reprendre ma place. Sauf que le décalage ressenti avant mon départ s'était amplifié. Chaque initiative me coûtait plus d'énergie que jamais.",
       },
       { type: "heading", text: "La séparation, et ce qu'elle m'a révélé" },
       {
@@ -182,7 +182,7 @@ export const experiences: Experience[] = [
       { type: "heading", text: "Le mythe, démonté" },
       {
         type: "paragraph",
-        text: "L'endurance n'est pas une compétence. C'est une ressource, et comme toute ressource, elle s'épuise. Confondre les deux, c'est croire que tu vaux ce que tu supportes. C'est faux : ta valeur, c'est ce que tu sais faire, ce que tu construis — pas le nombre d'heures que tu tiens debout.",
+        text: "L'endurance n'est pas une compétence. C'est une ressource, et comme toute ressource, elle s'épuise. Confondre les deux, c'est croire que tu vaux ce que tu supportes. C'est faux : ta valeur, c'est ce que tu sais faire, ce que tu construis, pas le nombre d'heures que tu tiens debout.",
       },
       {
         type: "paragraph",
@@ -194,7 +194,7 @@ export const experiences: Experience[] = [
       },
       {
         type: "paragraph",
-        text: "Yasmine — Maman de deux enfants. Dix ans d'e-commerce. Complice involontaire d'un mythe qui récompense l'endurance, jamais la lucidité.",
+        text: "Yasmine, maman de deux enfants. Dix ans d'e-commerce. Complice involontaire d'un mythe qui récompense l'endurance, jamais la lucidité.",
       },
     ],
   },
@@ -285,7 +285,7 @@ export const experiences: Experience[] = [
     auteur: "Yasmine",
     chapo: "Les coulisses de création d'une intelligence personnelle.",
     excerpt:
-      "Apprendre à coder pour construire l'outil qu'on n'a trouvé nulle part ailleurs — et documenter chaque étape, y compris les ratés.",
+      "Apprendre à coder pour construire l'outil qu'on n'a trouvé nulle part ailleurs, et documenter chaque étape, y compris les ratés.",
     tags: ["ia", "code", "produit"],
     coverImage: null,
     placeholder: true,

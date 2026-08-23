@@ -15,13 +15,13 @@ l'ancien `CONTENT_ASSETS_NEEDED.md`, étendu à la nouvelle architecture.
   souriante devant un ordinateur ». La photo doit installer une atmosphère, pas illustrer
   littéralement le texte.
 
-## Portrait auteure
+## Portrait auteure — ✅ fournie
 
-- **Page** : `/a-propos`
-- **Ratio** : 4:3
-- **Résolution recommandée** : 2000×1500px minimum
-- **Description** : photo réelle de Yasmine, lumière naturelle, pas de pose corporate — cohérent
-  avec le ton « excellente conversation » plutôt qu'institutionnel.
+- **Fichier** : `public/images/about/yasmine-portrait.jpg` (1080×1350, ratio 4:5)
+- **Utilisée sur** : `/a-propos` et la section « Derrière Krokodil » de la homepage
+- Photo réelle, candide, non posée — cohérente avec le ton du site. Une variante plus posée /
+  un recadrage différent pourra remplacer celle-ci plus tard si besoin, mais ce n'est plus un
+  trou à combler.
 
 ## Cover par contenu (Expérience / Dossier / Guide)
 

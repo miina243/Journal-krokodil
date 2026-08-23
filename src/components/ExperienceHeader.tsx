@@ -14,7 +14,7 @@ export function ExperienceHeader({ experience }: { experience: Experience }) {
     <header className="mx-auto max-w-3xl px-5 pt-12 sm:px-8 sm:pt-20">
       {experience.archive && (
         <div className="label mb-6 border border-dashed border-line-strong px-4 py-2 text-[0.6875rem] text-ink-faint">
-          Archive — texte fondateur publié le {formatDate(experience.date)}, conservé tel quel.
+          Archive : texte fondateur publié le {formatDate(experience.date)}, conservé tel quel.
         </div>
       )}
 

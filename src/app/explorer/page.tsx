@@ -17,7 +17,7 @@ export default function ExplorerPage() {
       </h1>
       <p className="mt-6 max-w-lg text-lg leading-relaxed text-ink-soft">
         Chaque rubrique répond à la même question : de quoi parle-t-on ? Ce que l&rsquo;on
-        suit dans le temps — les chantiers — traverse souvent plusieurs rubriques à la fois.
+        suit dans le temps, les chantiers, traverse souvent plusieurs rubriques à la fois.
       </p>
 
       <div className="mt-16 divide-y divide-line border-y border-line">

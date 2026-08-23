@@ -1,13 +1,13 @@
 import type { Metadata } from "next";
 import Link from "next/link";
+import Image from "next/image";
 import { getChantiersActifs } from "@/content";
-import { MediaPlaceholder } from "@/components/MediaPlaceholder";
 import { siteConfig } from "@/lib/site-config";
 
 export const metadata: Metadata = {
   title: "À propos",
   description:
-    "Yasmine Ngandu Dos Santos, fondatrice de Journal Krokodil — dix ans de communication et de projets digitaux, aujourd'hui documentés en public.",
+    "Yasmine Ngandu Dos Santos, fondatrice de Journal Krokodil, dix ans de communication et de projets digitaux, aujourd'hui documentés en public.",
 };
 
 export default function AboutPage() {
@@ -21,13 +21,22 @@ export default function AboutPage() {
         Je m&rsquo;appelle Yasmine.
       </h1>
 
-      <MediaPlaceholder label="Portrait — photo à venir" className="mt-10 aspect-[4/3] w-full" />
+      <div className="relative mt-10 aspect-[4/5] w-full max-w-md overflow-hidden bg-paper-dim">
+        <Image
+          src="/images/about/yasmine-portrait.jpg"
+          alt="Yasmine"
+          fill
+          className="object-cover"
+          sizes="(min-width: 768px) 28rem, 100vw"
+          priority
+        />
+      </div>
 
       <div className="mt-12">
         <p className="mb-6 text-[1.125rem] leading-[1.75] text-ink">
           Yasmine Ngandu Dos Santos, installée à Dole, en Bourgogne-Franche-Comté. Depuis près de
           dix ans, j&rsquo;interviens à l&rsquo;interface entre marketing, contenu, e-commerce,
-          communautés et coordination de projets — chez Expat-Dakar (édito et communautés), chez
+          communautés et coordination de projets : chez Expat-Dakar (édito et communautés), chez
           Bayard (communication digitale et retail), chez API&amp;YOU (pilotage de dispositifs
           digitaux pour une trentaine de clients simultanément) et chez Sherwood (mise sur le
           marché e-commerce).
@@ -36,7 +45,7 @@ export default function AboutPage() {
           Ce métier m&rsquo;a appris à structurer une réponse à partir d&rsquo;un besoin flou, à
           embarquer les bonnes personnes, et à transformer une idée en dispositif concret. Il m&rsquo;a
           aussi appris, à mes dépens, ce que coûte le fait de confondre sa valeur avec sa capacité
-          à tout porter — c&rsquo;est raconté dans{" "}
+          à tout porter. C&rsquo;est raconté dans{" "}
           <Link href="/le-journal/le-mythe-de-la-collaboratrice-infatigable" className="underline-hover">
             Le mythe de la collaboratrice infatigable
           </Link>
@@ -46,14 +55,14 @@ export default function AboutPage() {
           Journal Krokodil est né de ce qui s&rsquo;est passé après : l&rsquo;idée que je
           n&rsquo;avais pas à choisir entre la personne qui pilote des projets digitaux et celle
           qui rénove une maison le samedi, code un prototype le dimanche soir, ou se pose des
-          questions de foi un mercredi de Carême. La vie reste en chantier — la mienne y compris —
+          questions de foi un mercredi de Carême. La vie reste en chantier, la mienne y compris,
           et ce site documente ce chantier en cours, avec ses preuves et ses ratés.
         </p>
         <p className="mb-6 text-[1.125rem] leading-[1.75] text-ink">
           J&rsquo;ai des racines et des attaches en Afrique et au Portugal, qui nourrissent autant
           les objets que je rapporte que les questions que je me pose sur ce qu&rsquo;on
           transmet. Et depuis peu, j&rsquo;apprends à construire avec la technologie plutôt
-          qu&rsquo;à seulement l&rsquo;utiliser — <strong>Aurora</strong>, un prototype
+          qu&rsquo;à seulement l&rsquo;utiliser. <strong>Aurora</strong>, un prototype
           d&rsquo;assistance IA personnelle, en est la preuve la plus concrète.
         </p>
       </div>

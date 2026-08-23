@@ -71,7 +71,7 @@ export const chantiers: Chantier[] = [
   {
     slug: "construire-krokodil",
     titre: "Construire Krokodil",
-    description: "Le média lui-même est un chantier — architecture, contenu, méthode.",
+    description: "Le média lui-même est un chantier : architecture, contenu, méthode.",
     statut: "en-cours",
     dateDebut: "2026-01-23",
     derniereMiseAJour: "2026-08-19",

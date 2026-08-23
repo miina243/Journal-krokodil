@@ -15,7 +15,7 @@ export default function CorrectionPolicyPage() {
 
       <div className="mt-10">
         <p className="mb-6 text-[1.0625rem] leading-relaxed text-ink">
-          Un média qui documente des expériences réelles se trompe parfois — sur un chiffre, une
+          Un média qui documente des expériences réelles se trompe parfois : sur un chiffre, une
           date, une compréhension. Voici la règle suivie ici :
         </p>
         <ul className="mb-6 list-disc space-y-2 pl-5 text-[1.0625rem] leading-relaxed text-ink">

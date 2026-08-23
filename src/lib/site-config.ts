@@ -7,7 +7,7 @@ export const siteConfig = {
   shortName: "Krokodil",
   tagline: "J'ose construire une vie qui me ressemble.",
   description:
-    "Un média personnel d'expériences réelles : maison, bureau, atelier, journal, ailleurs. Vécu, vérifié, analysé — pas un blog lifestyle générique.",
+    "Un média personnel d'expériences réelles : maison, bureau, atelier, journal, ailleurs. Vécu, vérifié, analysé, pas un blog lifestyle générique.",
   url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://journalcrocodile.com",
   author: {
     name: "Yasmine",

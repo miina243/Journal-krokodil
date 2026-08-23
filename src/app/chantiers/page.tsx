@@ -5,7 +5,7 @@ import { ChantierCard } from "@/components/ChantierCard";
 export const metadata: Metadata = {
   title: "Les Chantiers",
   description:
-    "Les projets réellement suivis dans le temps — rénovation, reconversion, Aurora, modèle économique.",
+    "Les projets réellement suivis dans le temps : rénovation, reconversion, Aurora, modèle économique.",
 };
 
 export default function ChantiersPage() {
@@ -16,8 +16,8 @@ export default function ChantiersPage() {
         Ce qu&rsquo;on suit dans le temps, pas juste ce qu&rsquo;on publie.
       </h1>
       <p className="mt-6 max-w-lg text-lg leading-relaxed text-ink-soft">
-        Un chantier n&rsquo;est pas une rubrique. C&rsquo;est un processus réel — rénovation,
-        reconversion, produit — suivi sur plusieurs semaines ou plusieurs mois, avec ses
+        Un chantier n&rsquo;est pas une rubrique. C&rsquo;est un processus réel (rénovation,
+        reconversion, produit) suivi sur plusieurs semaines ou plusieurs mois, avec ses
         avancées, ses pauses, et parfois ses abandons.
       </p>
 
